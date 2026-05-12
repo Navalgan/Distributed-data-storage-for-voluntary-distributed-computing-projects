@@ -1,0 +1,57 @@
+[2026/03/11 00:33:58] Executing command: sample_dummy_assimilator --app uppercase
+2026-03-11 00:33:58.8078 UTC  Starting assimilator handler
+2026-03-11 00:33:58.8093 UTC  Assimilating uppercase_1773188341
+2026-03-11 00:33:58.8094 UTC  Found canonical result
+2026-03-11 00:33:58.8160 UTC  Assimilated 1 workunits.
+2026-03-11 00:36:08.8360 UTC  Assimilating uppercase_1773189300
+2026-03-11 00:36:08.8361 UTC  Found canonical result
+2026-03-11 00:36:08.8416 UTC  Assimilated 1 workunits.
+GOT STOP SIGNAL
+2026-03-11 01:06:28.7995 UTC  Quitting due to SIGHUP
+[2026/03/11 01:06:33] Executing command: sample_dummy_assimilator --app uppercase
+2026-03-11 01:06:33.7635 UTC  Starting assimilator handler
+2026-03-11 01:08:13.7814 UTC  Assimilating uppercase_1773191211
+2026-03-11 01:08:13.7814 UTC  Found canonical result
+2026-03-11 01:08:13.7869 UTC  Assimilated 1 workunits.
+2026-03-11 22:51:06.9463 UTC  Assimilating uppercase_1773269365
+2026-03-11 22:51:06.9464 UTC  Found canonical result
+2026-03-11 22:51:06.9522 UTC  Assimilating uppercase_1773269366
+2026-03-11 22:51:06.9523 UTC  Found canonical result
+2026-03-11 22:51:06.9567 UTC  Assimilated 2 workunits.
+2026-03-11 22:53:26.9819 UTC  Assimilating uppercase_1773269367
+2026-03-11 22:53:26.9819 UTC  Found canonical result
+2026-03-11 22:53:26.9880 UTC  Assimilating uppercase_1773269371
+2026-03-11 22:53:26.9880 UTC  Found canonical result
+2026-03-11 22:53:26.9949 UTC  Assimilated 2 workunits.
+2026-03-11 23:04:27.1046 UTC  Assimilating uppercase_1773270105
+2026-03-11 23:04:27.1047 UTC  Found canonical result
+2026-03-11 23:04:27.1124 UTC  Assimilating uppercase_1773270107
+2026-03-11 23:04:27.1124 UTC  Found canonical result
+2026-03-11 23:04:27.1306 UTC  Assimilating uppercase_1773270110
+2026-03-11 23:04:27.1306 UTC  Found canonical result
+2026-03-11 23:04:27.1357 UTC  Assimilating uppercase_1773270112
+2026-03-11 23:04:27.1358 UTC  Found canonical result
+2026-03-11 23:04:27.1405 UTC  Assimilating uppercase_1773270115
+2026-03-11 23:04:27.1405 UTC  Found canonical result
+2026-03-11 23:04:27.1457 UTC  Assimilating uppercase_1773270117
+2026-03-11 23:04:27.1457 UTC  Found canonical result
+2026-03-11 23:04:27.1505 UTC  Assimilated 6 workunits.
+2026-03-11 23:04:37.1529 UTC  Assimilating uppercase_1773270120
+2026-03-11 23:04:37.1530 UTC  Found canonical result
+2026-03-11 23:04:37.1591 UTC  Assimilating uppercase_1773270123
+2026-03-11 23:04:37.1591 UTC  Found canonical result
+2026-03-11 23:04:37.1645 UTC  Assimilating uppercase_1773270125
+2026-03-11 23:04:37.1646 UTC  Found canonical result
+2026-03-11 23:04:37.1687 UTC  Assimilated 3 workunits.
+[2026/04/02 17:30:02] Executing command: sample_dummy_assimilator --app uppercase
+2026-04-02 17:30:02.6308 UTC  Starting assimilator handler
+Database error: Lost connection to MySQL server during query
+query=select * from workunit where appid=1 and assimilate_state=1  limit 1000
+[2026/04/09 06:50:01] Executing command: sample_dummy_assimilator --app uppercase
+2026-04-09 06:50:01.8330 UTC  Starting assimilator handler
+GOT STOP SIGNAL
+2026-04-10 08:50:13.9602 UTC  Quitting due to SIGHUP
+[2026/04/10 08:50:16] Executing command: sample_dummy_assimilator --app uppercase
+2026-04-10 08:50:17.1060 UTC  Starting assimilator handler
+GOT STOP SIGNAL
+2026-04-19 02:06:04.9066 UTC  Quitting due to SIGHUP

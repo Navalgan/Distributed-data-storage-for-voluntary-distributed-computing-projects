@@ -1,0 +1,124 @@
+[2026/03/11 00:03:19] Executing command: feeder -d 3
+2026-03-11 00:03:19.2913 UTC  Starting
+2026-03-11 00:03:19.2913 UTC  11c12a0f2603a47604359eb4993d5d5cce2aa7a1 [https://github.com/BOINC/boinc.git] (compute-vm-2-4-20-ssd-1771847166215:/home/navalgan/test_boinc/boinc [master]) [Server-Release: server_release/1.x/1.x.0-3256-g11c12a0f2603a47604359eb4993d5d5cce2aa7a1]
+have apps for CPU: no
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Apple GPU: no
+2026-03-11 00:03:19.3184 UTC  read 20 platforms, 0 apps, 0 app_versions, 0 assignments
+2026-03-11 00:03:19.3184 UTC  Using 100 job slots
+2026-03-11 00:08:39.3901 UTC  Found trigger file reread_db; re-scanning database tables.
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Apple GPU: no
+2026-03-11 00:08:39.3984 UTC  Done re-scanning: trigger file removed.
+GOT STOP SIGNAL
+2026-03-11 00:15:21.8994 UTC  Quitting due to SIGHUP
+[2026/03/11 00:15:27] Executing command: feeder -d 3
+2026-03-11 00:15:27.2954 UTC  Starting
+2026-03-11 00:15:27.2955 UTC  11c12a0f2603a47604359eb4993d5d5cce2aa7a1 [https://github.com/BOINC/boinc.git] (compute-vm-2-4-20-ssd-1771847166215:/home/navalgan/test_boinc/boinc [master]) [Server-Release: server_release/1.x/1.x.0-3256-g11c12a0f2603a47604359eb4993d5d5cce2aa7a1]
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Apple GPU: no
+2026-03-11 00:15:27.3264 UTC  read 20 platforms, 1 apps, 1 app_versions, 0 assignments
+2026-03-11 00:15:27.3264 UTC  Using 100 job slots
+2026-03-11 00:19:07.3782 UTC  adding result [RESULT#1] in slot 0
+GOT STOP SIGNAL
+2026-03-11 00:28:04.3327 UTC  Quitting due to SIGHUP
+[2026/03/11 00:28:07] Executing command: feeder -d 3
+2026-03-11 00:28:07.4617 UTC  Starting
+2026-03-11 00:28:07.4617 UTC  11c12a0f2603a47604359eb4993d5d5cce2aa7a1 [https://github.com/BOINC/boinc.git] (compute-vm-2-4-20-ssd-1771847166215:/home/navalgan/test_boinc/boinc [master]) [Server-Release: server_release/1.x/1.x.0-3256-g11c12a0f2603a47604359eb4993d5d5cce2aa7a1]
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Apple GPU: no
+2026-03-11 00:28:07.4922 UTC  read 20 platforms, 1 apps, 1 app_versions, 0 assignments
+2026-03-11 00:28:07.4922 UTC  Using 100 job slots
+2026-03-11 00:35:07.5956 UTC  adding result [RESULT#2] in slot 0
+GOT STOP SIGNAL
+2026-03-11 01:06:28.8014 UTC  Quitting due to SIGHUP
+[2026/03/11 01:06:33] Executing command: feeder -d 3
+2026-03-11 01:06:33.4580 UTC  Starting
+2026-03-11 01:06:33.4581 UTC  11c12a0f2603a47604359eb4993d5d5cce2aa7a1 [https://github.com/BOINC/boinc.git] (compute-vm-2-4-20-ssd-1771847166215:/home/navalgan/test_boinc/boinc [master]) [Server-Release: server_release/1.x/1.x.0-3256-g11c12a0f2603a47604359eb4993d5d5cce2aa7a1]
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Apple GPU: no
+2026-03-11 01:06:33.4892 UTC  read 20 platforms, 1 apps, 1 app_versions, 0 assignments
+2026-03-11 01:06:33.4892 UTC  Using 100 job slots
+2026-03-11 01:06:58.4969 UTC  adding result [RESULT#3] in slot 0
+2026-03-11 22:49:32.5738 UTC  adding result [RESULT#4] in slot 0
+2026-03-11 22:49:32.5739 UTC  adding result [RESULT#5] in slot 1
+2026-03-11 22:49:37.5760 UTC  adding result [RESULT#6] in slot 2
+2026-03-11 22:49:37.5761 UTC  adding result [RESULT#7] in slot 3
+2026-03-11 23:01:52.7577 UTC  adding result [RESULT#8] in slot 0
+2026-03-11 23:01:57.7599 UTC  adding result [RESULT#9] in slot 1
+2026-03-11 23:01:57.7599 UTC  adding result [RESULT#10] in slot 2
+2026-03-11 23:02:02.7616 UTC  adding result [RESULT#11] in slot 3
+2026-03-11 23:02:02.7616 UTC  adding result [RESULT#12] in slot 4
+2026-03-11 23:02:07.7633 UTC  adding result [RESULT#13] in slot 5
+2026-03-11 23:02:07.7633 UTC  adding result [RESULT#14] in slot 6
+2026-03-11 23:02:12.7650 UTC  adding result [RESULT#15] in slot 7
+2026-03-11 23:02:12.7651 UTC  adding result [RESULT#16] in slot 8
+[2026/04/02 17:30:02] Executing command: feeder -d 3
+2026-04-02 17:30:02.3404 UTC  Starting
+2026-04-02 17:30:02.3405 UTC  11c12a0f2603a47604359eb4993d5d5cce2aa7a1 [https://github.com/BOINC/boinc.git] (compute-vm-2-4-20-ssd-1771847166215:/home/navalgan/test_boinc/boinc [master]) [Server-Release: server_release/1.x/1.x.0-3256-g11c12a0f2603a47604359eb4993d5d5cce2aa7a1]
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Apple GPU: no
+2026-04-02 17:30:02.3847 UTC  read 20 platforms, 1 apps, 1 app_versions, 0 assignments
+2026-04-02 17:30:02.3848 UTC  Using 100 job slots
+Database error: Lost connection to MySQL server during query
+query=select high_priority r1.id, r1.priority, r1.server_state, r1.report_deadline, workunit.* from result r1 force index(ind_res_st), workunit, app  where r1.server_state=2  and r1.workunitid=workunit.id  and workunit.appid=app.id  and app.deprecated=0  and workunit.transitioner_flags=0    order by r1.priority desc, r1.workunitid limit 200
+2026-04-09 06:47:18.9002 UTC [CRITICAL] DB connection lost, exiting
+[2026/04/09 06:50:01] Executing command: feeder -d 3
+2026-04-09 06:50:01.5278 UTC  Starting
+2026-04-09 06:50:01.5278 UTC  11c12a0f2603a47604359eb4993d5d5cce2aa7a1 [https://github.com/BOINC/boinc.git] (compute-vm-2-4-20-ssd-1771847166215:/home/navalgan/test_boinc/boinc [master]) [Server-Release: server_release/1.x/1.x.0-3256-g11c12a0f2603a47604359eb4993d5d5cce2aa7a1]
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Apple GPU: no
+2026-04-09 06:50:01.5707 UTC  read 20 platforms, 1 apps, 1 app_versions, 0 assignments
+2026-04-09 06:50:01.5707 UTC  Using 100 job slots
+2026-04-10 00:53:59.5399 UTC  Found trigger file reread_db; re-scanning database tables.
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Apple GPU: no
+2026-04-10 00:53:59.5469 UTC  Done re-scanning: trigger file removed.
+GOT STOP SIGNAL
+2026-04-10 08:50:13.9602 UTC  Quitting due to SIGHUP
+[2026/04/10 08:50:16] Executing command: feeder -d 3
+2026-04-10 08:50:16.8013 UTC  Starting
+2026-04-10 08:50:16.8014 UTC  11c12a0f2603a47604359eb4993d5d5cce2aa7a1 [https://github.com/BOINC/boinc.git] (compute-vm-2-4-20-ssd-1771847166215:/home/navalgan/test_boinc/boinc [master]) [Server-Release: server_release/1.x/1.x.0-3256-g11c12a0f2603a47604359eb4993d5d5cce2aa7a1]
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Apple GPU: no
+2026-04-10 08:50:16.8301 UTC  read 20 platforms, 1 apps, 1 app_versions, 0 assignments
+2026-04-10 08:50:16.8302 UTC  Using 100 job slots
+2026-04-10 08:56:06.9043 UTC  Found trigger file reread_db; re-scanning database tables.
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Apple GPU: no
+2026-04-10 08:56:06.9118 UTC  Done re-scanning: trigger file removed.
+2026-04-10 09:11:37.1100 UTC  adding result [RESULT#17] in slot 0
+2026-04-10 09:17:42.1872 UTC  adding result [RESULT#18] in slot 1
+2026-04-10 09:17:42.1873 UTC  adding result [RESULT#19] in slot 2
+2026-04-10 09:17:47.1883 UTC  adding result [RESULT#20] in slot 3
+GOT STOP SIGNAL
+2026-04-19 02:06:04.9046 UTC  Quitting due to SIGHUP

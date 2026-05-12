@@ -1,0 +1,66 @@
+2026-03-11 00:05:02.4377 UTC [CRITICAL] No workunits
+2026-03-11 00:05:02.4377 UTC [CRITICAL] delete_antiques() returned with error -136
+2026-03-12 00:05:02.0762 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-12 00:05:02.0762 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-03-13 00:05:01.5216 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-13 00:05:01.5217 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-03-14 00:05:02.0185 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-14 00:05:02.0185 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-03-15 00:05:02.2056 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-15 00:05:02.2057 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-03-16 00:05:02.2846 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-16 00:05:02.2847 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-03-17 00:05:02.4712 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-17 00:05:02.4712 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-03-18 00:10:01.6885 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-18 00:10:01.6885 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-03-19 00:10:01.6286 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-19 00:10:01.6286 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-03-20 00:10:02.4633 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-20 00:10:02.4633 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-03-21 00:15:01.7934 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-21 00:15:01.7934 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-03-22 00:15:01.6981 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-22 00:15:01.6982 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-03-23 00:15:02.3867 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-23 00:15:02.3867 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-03-24 00:15:02.0563 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-24 00:15:02.0564 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-03-25 00:15:01.8351 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-25 00:15:01.8351 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-03-26 00:15:02.2953 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-03-26 00:15:02.2953 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-02 17:30:02.7277 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-02 17:30:02.7288 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-03 17:35:02.2828 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-03 17:35:02.2829 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-04 17:35:02.2139 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-04 17:35:02.2139 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-05 17:35:01.7684 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-05 17:35:01.7685 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-06 17:35:01.6542 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-06 17:35:01.6542 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-07 17:35:02.3265 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-07 17:35:02.3265 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-08 17:35:01.8952 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-08 17:35:01.8952 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-09 17:35:01.9710 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-09 17:35:01.9710 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-10 17:35:02.1619 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-10 17:35:02.1620 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-11 17:35:01.9458 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-11 17:35:01.9459 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-12 17:35:01.7532 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-12 17:35:01.7533 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-13 17:35:01.6911 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-13 17:35:01.6911 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-14 17:35:01.6822 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-14 17:35:01.6822 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-15 17:35:02.2053 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-15 17:35:02.2053 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-16 17:35:02.3515 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-16 17:35:02.3516 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-17 17:35:02.2144 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-17 17:35:02.2144 UTC [CRITICAL] delete_antiques() returned with error -1
+2026-04-18 17:35:01.7143 UTC [CRITICAL] Couldn't find http_user 'apache' in passwd
+2026-04-18 17:35:01.7143 UTC [CRITICAL] delete_antiques() returned with error -1

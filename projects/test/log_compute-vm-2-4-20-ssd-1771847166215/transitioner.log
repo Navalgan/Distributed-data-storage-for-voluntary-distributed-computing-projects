@@ -1,0 +1,79 @@
+[2026/03/11 00:03:19] Executing command: transitioner -d 3
+2026-03-11 00:03:19.3916 UTC  Starting
+GOT STOP SIGNAL
+2026-03-11 00:15:21.8972 UTC  Quitting due to SIGHUP
+[2026/03/11 00:15:27] Executing command: transitioner -d 3
+2026-03-11 00:15:27.3956 UTC  Starting
+2026-03-11 00:19:02.4495 UTC  [WU#1 uppercase_1773188341] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 00:20:17.4959 UTC  [WU#1 uppercase_1773188341] need_validate:=>true
+GOT STOP SIGNAL
+2026-03-11 00:28:04.3332 UTC  Quitting due to SIGHUP
+[2026/03/11 00:28:07] Executing command: transitioner -d 3
+2026-03-11 00:28:07.5627 UTC  Starting
+2026-03-11 00:34:02.6511 UTC  [WU#1 uppercase_1773188341] [RESULT#1 uppercase_1773188341_0] file_delete_state:=>READY
+2026-03-11 00:35:02.6827 UTC  [WU#2 uppercase_1773189300] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 00:36:02.7084 UTC  [WU#2 uppercase_1773189300] need_validate:=>true
+2026-03-11 00:36:12.7171 UTC  [WU#2 uppercase_1773189300] [RESULT#2 uppercase_1773189300_0] file_delete_state:=>READY
+GOT STOP SIGNAL
+2026-03-11 01:06:28.7976 UTC  Quitting due to SIGHUP
+[2026/03/11 01:06:33] Executing command: transitioner -d 3
+2026-03-11 01:06:33.5585 UTC  Starting
+2026-03-11 01:06:53.5677 UTC  [WU#3 uppercase_1773191211] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 01:08:13.5972 UTC  [WU#3 uppercase_1773191211] need_validate:=>true
+2026-03-11 01:08:18.6041 UTC  [WU#3 uppercase_1773191211] [RESULT#3 uppercase_1773191211_0] file_delete_state:=>READY
+2026-03-11 22:49:27.5724 UTC  [WU#4 uppercase_1773269365] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 22:49:27.5863 UTC  [WU#5 uppercase_1773269366] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 22:49:32.5965 UTC  [WU#6 uppercase_1773269367] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 22:49:32.6088 UTC  [WU#8 uppercase_1773269371] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 22:50:57.6468 UTC  [WU#4 uppercase_1773269365] need_validate:=>true
+2026-03-11 22:50:57.6517 UTC  [WU#5 uppercase_1773269366] need_validate:=>true
+2026-03-11 22:51:07.6582 UTC  [WU#4 uppercase_1773269365] [RESULT#4 uppercase_1773269365_0] file_delete_state:=>READY
+2026-03-11 22:51:07.6669 UTC  [WU#5 uppercase_1773269366] [RESULT#5 uppercase_1773269366_0] file_delete_state:=>READY
+2026-03-11 22:53:12.7031 UTC  [WU#6 uppercase_1773269367] need_validate:=>true
+2026-03-11 22:53:12.7085 UTC  [WU#8 uppercase_1773269371] need_validate:=>true
+2026-03-11 22:53:27.7190 UTC  [WU#6 uppercase_1773269367] [RESULT#6 uppercase_1773269367_0] file_delete_state:=>READY
+2026-03-11 22:53:27.7315 UTC  [WU#8 uppercase_1773269371] [RESULT#7 uppercase_1773269371_0] file_delete_state:=>READY
+2026-03-11 23:01:47.8573 UTC  [WU#9 uppercase_1773270105] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 23:01:52.8683 UTC  [WU#10 uppercase_1773270107] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 23:01:52.8791 UTC  [WU#11 uppercase_1773270110] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 23:01:57.8891 UTC  [WU#12 uppercase_1773270112] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 23:01:57.8992 UTC  [WU#13 uppercase_1773270115] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 23:02:02.9110 UTC  [WU#14 uppercase_1773270117] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 23:02:02.9298 UTC  [WU#15 uppercase_1773270120] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 23:02:07.9425 UTC  [WU#16 uppercase_1773270123] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 23:02:07.9539 UTC  [WU#17 uppercase_1773270125] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-03-11 23:04:17.9928 UTC  [WU#9 uppercase_1773270105] need_validate:=>true
+2026-03-11 23:04:17.9983 UTC  [WU#10 uppercase_1773270107] need_validate:=>true
+2026-03-11 23:04:23.0051 UTC  [WU#11 uppercase_1773270110] need_validate:=>true
+2026-03-11 23:04:23.0206 UTC  [WU#12 uppercase_1773270112] need_validate:=>true
+2026-03-11 23:04:23.0278 UTC  [WU#13 uppercase_1773270115] need_validate:=>true
+2026-03-11 23:04:23.0352 UTC  [WU#14 uppercase_1773270117] need_validate:=>true
+2026-03-11 23:04:28.0418 UTC  [WU#15 uppercase_1773270120] need_validate:=>true
+2026-03-11 23:04:28.0496 UTC  [WU#16 uppercase_1773270123] need_validate:=>true
+2026-03-11 23:04:28.0578 UTC  [WU#9 uppercase_1773270105] [RESULT#8 uppercase_1773270105_0] file_delete_state:=>READY
+2026-03-11 23:04:28.0696 UTC  [WU#10 uppercase_1773270107] [RESULT#9 uppercase_1773270107_0] file_delete_state:=>READY
+2026-03-11 23:04:28.0845 UTC  [WU#11 uppercase_1773270110] [RESULT#10 uppercase_1773270110_0] file_delete_state:=>READY
+2026-03-11 23:04:28.0977 UTC  [WU#12 uppercase_1773270112] [RESULT#11 uppercase_1773270112_0] file_delete_state:=>READY
+2026-03-11 23:04:28.1075 UTC  [WU#13 uppercase_1773270115] [RESULT#12 uppercase_1773270115_0] file_delete_state:=>READY
+2026-03-11 23:04:28.1197 UTC  [WU#14 uppercase_1773270117] [RESULT#13 uppercase_1773270117_0] file_delete_state:=>READY
+2026-03-11 23:04:33.1321 UTC  [WU#17 uppercase_1773270125] need_validate:=>true
+2026-03-11 23:04:38.1385 UTC  [WU#15 uppercase_1773270120] [RESULT#14 uppercase_1773270120_0] file_delete_state:=>READY
+2026-03-11 23:04:38.1466 UTC  [WU#16 uppercase_1773270123] [RESULT#15 uppercase_1773270123_0] file_delete_state:=>READY
+2026-03-11 23:04:38.1546 UTC  [WU#17 uppercase_1773270125] [RESULT#16 uppercase_1773270125_0] file_delete_state:=>READY
+[2026/04/02 17:30:02] Executing command: transitioner -d 3
+2026-04-02 17:30:02.4361 UTC  Starting
+Database error: Lost connection to MySQL server during query
+query=SELECT    wu.id,    wu.name,    wu.appid,    wu.min_quorum,    wu.need_validate,    wu.canonical_resultid,    wu.transition_time,    wu.delay_bound,    wu.error_mask,    wu.max_error_results,    wu.max_total_results,    wu.file_delete_state,    wu.assimilate_state,    wu.target_nresults,    wu.result_template_file,    wu.priority,    wu.hr_class,    wu.batch,    wu.app_version_id,    wu.transitioner_flags,    wu.size_class,    res.id,    res.name,    res.report_deadline,    res.server_state,    res.outcome,    res.validate_state,    res.file_delete_state,    res.sent_time,    res.hostid,    res.received_time,    res.app_version_id,    res.exit_status FROM    workunit AS wu        LEFT JOIN result AS res ON wu.id = res.workunitid WHERE     wu.transition_time < 1775717238   and transitioner_flags<>1 LIMIT    1000 
+2026-04-09 06:47:18.8990 UTC [CRITICAL] WU enum error: Error 2013; exiting
+[2026/04/09 06:50:01] Executing command: transitioner -d 3
+2026-04-09 06:50:01.6285 UTC  Starting
+GOT STOP SIGNAL
+2026-04-10 08:50:13.9544 UTC  Quitting due to SIGHUP
+[2026/04/10 08:50:16] Executing command: transitioner -d 3
+2026-04-10 08:50:16.9017 UTC  Starting
+2026-04-10 09:11:32.1639 UTC  [WU#18 uppercase_1775812291] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-04-10 09:17:37.2650 UTC  [WU#19 uppercase_1775812655] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-04-10 09:17:37.2756 UTC  [WU#20 uppercase_1775812656] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+2026-04-10 09:17:42.2907 UTC  [WU#21 uppercase_1775812657] Generating 1 more results (1 target - 0 unsent - 0 in progress - 0 success)
+GOT STOP SIGNAL
+2026-04-19 02:06:04.9039 UTC  Quitting due to SIGHUP

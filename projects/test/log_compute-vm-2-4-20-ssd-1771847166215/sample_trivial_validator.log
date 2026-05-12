@@ -1,0 +1,90 @@
+[2026/03/11 00:03:19] Executing command: sample_trivial_validator --app uppercase
+2026-03-11 00:03:19.5962 UTC  max_granted_credit: 73000000.000000
+2026-03-11 00:03:19.5963 UTC  Starting validator, debug level 3
+2026-03-11 00:03:19.5969 UTC [CRITICAL] can't find app uppercase
+[2026/03/11 00:05:01] Executing command: sample_trivial_validator --app uppercase
+2026-03-11 00:05:02.2368 UTC  max_granted_credit: 73000000.000000
+2026-03-11 00:05:02.2369 UTC  Starting validator, debug level 3
+2026-03-11 00:05:02.2377 UTC [CRITICAL] can't find app uppercase
+[2026/03/11 00:10:01] Executing command: sample_trivial_validator --app uppercase
+2026-03-11 00:10:01.7249 UTC  max_granted_credit: 73000000.000000
+2026-03-11 00:10:01.7249 UTC  Starting validator, debug level 3
+GOT STOP SIGNAL
+2026-03-11 00:15:21.8971 UTC  Quitting due to SIGHUP
+[2026/03/11 00:15:27] Executing command: sample_trivial_validator --app uppercase
+2026-03-11 00:15:27.5998 UTC  max_granted_credit: 73000000.000000
+2026-03-11 00:15:27.5999 UTC  Starting validator, debug level 3
+2026-03-11 00:20:17.6892 UTC  [WU#1 uppercase_1773188341] handle_wu(): No canonical result yet
+2026-03-11 00:20:17.6972 UTC  [RESULT#1 uppercase_1773188341_0] Valid; granted 0.277202 credit [HOST#1]
+2026-03-11 00:20:17.6972 UTC  [HOST#1 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=0.000000->1.000000
+GOT STOP SIGNAL
+2026-03-11 00:28:04.3343 UTC  Quitting due to SIGHUP
+[2026/03/11 00:28:07] Executing command: sample_trivial_validator --app uppercase
+2026-03-11 00:28:07.7668 UTC  max_granted_credit: 73000000.000000
+2026-03-11 00:28:07.7669 UTC  Starting validator, debug level 3
+2026-03-11 00:36:02.9118 UTC  [WU#2 uppercase_1773189300] handle_wu(): No canonical result yet
+2026-03-11 00:36:02.9236 UTC  [RESULT#2 uppercase_1773189300_0] Valid; granted 0.276701 credit [HOST#1]
+2026-03-11 00:36:02.9236 UTC  [HOST#1 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=1.000000->2.000000
+GOT STOP SIGNAL
+2026-03-11 01:06:28.7982 UTC  Quitting due to SIGHUP
+[2026/03/11 01:06:33] Executing command: sample_trivial_validator --app uppercase
+2026-03-11 01:06:33.6624 UTC  max_granted_credit: 73000000.000000
+2026-03-11 01:06:33.6625 UTC  Starting validator, debug level 3
+2026-03-11 01:08:13.6934 UTC  [WU#3 uppercase_1773191211] handle_wu(): No canonical result yet
+2026-03-11 01:08:13.7066 UTC  [RESULT#3 uppercase_1773191211_0] Valid; granted 0.276641 credit [HOST#1]
+2026-03-11 01:08:13.7067 UTC  [HOST#1 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=2.000000->3.000000
+2026-03-11 22:51:02.5473 UTC  [WU#4 uppercase_1773269365] handle_wu(): No canonical result yet
+2026-03-11 22:51:02.5547 UTC  [RESULT#4 uppercase_1773269365_0] Valid; granted 0.312733 credit [HOST#1]
+2026-03-11 22:51:02.5547 UTC  [HOST#1 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=3.000000->4.000000
+2026-03-11 22:51:02.5904 UTC  [WU#5 uppercase_1773269366] handle_wu(): No canonical result yet
+2026-03-11 22:51:02.5978 UTC  [RESULT#5 uppercase_1773269366_0] Valid; granted 0.300712 credit [HOST#1]
+2026-03-11 22:51:02.5978 UTC  [HOST#1 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=4.000000->5.000000
+2026-03-11 22:53:17.6832 UTC  [WU#6 uppercase_1773269367] handle_wu(): No canonical result yet
+2026-03-11 22:53:17.6901 UTC  [RESULT#6 uppercase_1773269367_0] Valid; granted 0.255743 credit [HOST#2]
+2026-03-11 22:53:17.6901 UTC  [HOST#2 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=0.000000->1.000000
+2026-03-11 22:53:17.7162 UTC  [WU#8 uppercase_1773269371] handle_wu(): No canonical result yet
+2026-03-11 22:53:17.7225 UTC  [RESULT#7 uppercase_1773269371_0] Valid; granted 0.244649 credit [HOST#2]
+2026-03-11 22:53:17.7226 UTC  [HOST#2 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=1.000000->2.000000
+2026-03-11 23:04:22.9534 UTC  [WU#9 uppercase_1773270105] handle_wu(): No canonical result yet
+2026-03-11 23:04:22.9587 UTC  [RESULT#8 uppercase_1773270105_0] Valid; granted 0.289053 credit [HOST#1]
+2026-03-11 23:04:22.9587 UTC  [HOST#1 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=5.000000->6.000000
+2026-03-11 23:04:22.9740 UTC  [WU#10 uppercase_1773270107] handle_wu(): No canonical result yet
+2026-03-11 23:04:22.9800 UTC  [RESULT#9 uppercase_1773270107_0] Valid; granted 0.277031 credit [HOST#1]
+2026-03-11 23:04:22.9801 UTC  [HOST#1 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=6.000000->7.000000
+2026-03-11 23:04:23.0307 UTC  [WU#11 uppercase_1773270110] handle_wu(): No canonical result yet
+2026-03-11 23:04:23.0368 UTC  [RESULT#10 uppercase_1773270110_0] Valid; granted 0.222978 credit [HOST#3]
+2026-03-11 23:04:23.0368 UTC  [HOST#3 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=0.000000->1.000000
+2026-03-11 23:04:23.0551 UTC  [WU#12 uppercase_1773270112] handle_wu(): No canonical result yet
+2026-03-11 23:04:23.0604 UTC  [RESULT#11 uppercase_1773270112_0] Valid; granted 0.233089 credit [HOST#3]
+2026-03-11 23:04:23.0605 UTC  [HOST#3 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=1.000000->2.000000
+2026-03-11 23:04:23.0817 UTC  [WU#13 uppercase_1773270115] handle_wu(): No canonical result yet
+2026-03-11 23:04:23.0879 UTC  [RESULT#12 uppercase_1773270115_0] Valid; granted 0.255180 credit [HOST#2]
+2026-03-11 23:04:23.0879 UTC  [HOST#2 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=2.000000->3.000000
+2026-03-11 23:04:23.1060 UTC  [WU#14 uppercase_1773270117] handle_wu(): No canonical result yet
+2026-03-11 23:04:23.1119 UTC  [RESULT#13 uppercase_1773270117_0] Valid; granted 0.244101 credit [HOST#2]
+2026-03-11 23:04:23.1119 UTC  [HOST#2 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=3.000000->4.000000
+2026-03-11 23:04:28.1423 UTC  [WU#15 uppercase_1773270120] handle_wu(): No canonical result yet
+2026-03-11 23:04:28.1484 UTC  [RESULT#14 uppercase_1773270120_0] Valid; granted 0.289215 credit [HOST#1]
+2026-03-11 23:04:28.1485 UTC  [HOST#1 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=7.000000->8.000000
+2026-03-11 23:04:28.1690 UTC  [WU#16 uppercase_1773270123] handle_wu(): No canonical result yet
+2026-03-11 23:04:28.1742 UTC  [RESULT#15 uppercase_1773270123_0] Valid; granted 0.277181 credit [HOST#1]
+2026-03-11 23:04:28.1742 UTC  [HOST#1 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=8.000000->9.000000
+2026-03-11 23:04:33.2408 UTC  [WU#17 uppercase_1773270125] handle_wu(): No canonical result yet
+2026-03-11 23:04:33.2463 UTC  [RESULT#16 uppercase_1773270125_0] Valid; granted 0.242970 credit [HOST#3]
+2026-03-11 23:04:33.2463 UTC  [HOST#3 AV#1] [outlier=0] Updating HAV in DB.  pfc.n=2.000000->3.000000
+[2026/04/02 17:30:02] Executing command: sample_trivial_validator --app uppercase
+2026-04-02 17:30:02.5252 UTC  max_granted_credit: 73000000.000000
+2026-04-02 17:30:02.5252 UTC  Starting validator, debug level 3
+Database error: Server shutdown in progress
+query=select * from app where name='uppercase'
+2026-04-09 06:47:15.4753 UTC [CRITICAL] can't find app uppercase
+[2026/04/09 06:50:01] Executing command: sample_trivial_validator --app uppercase
+2026-04-09 06:50:01.7318 UTC  max_granted_credit: 73000000.000000
+2026-04-09 06:50:01.7319 UTC  Starting validator, debug level 3
+GOT STOP SIGNAL
+2026-04-10 08:50:13.9544 UTC  Quitting due to SIGHUP
+[2026/04/10 08:50:16] Executing command: sample_trivial_validator --app uppercase
+2026-04-10 08:50:17.0048 UTC  max_granted_credit: 73000000.000000
+2026-04-10 08:50:17.0049 UTC  Starting validator, debug level 3
+GOT STOP SIGNAL
+2026-04-19 02:06:04.9051 UTC  Quitting due to SIGHUP

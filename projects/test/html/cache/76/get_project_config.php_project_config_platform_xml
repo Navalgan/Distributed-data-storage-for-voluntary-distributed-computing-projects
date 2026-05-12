@@ -1,0 +1,7 @@
+s:250:"    <platforms>
+            <platform>
+                <platform_name>aarch64-android-linux-gnu</platform_name>
+                <user_friendly_name>Android running on ARM 64-bit arm64-v8a</user_friendly_name>
+            </platform>
+    </platforms>
+";

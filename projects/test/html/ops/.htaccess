@@ -1,0 +1,5 @@
+
+AuthName "test"
+AuthType Basic
+AuthUserFile /home/navalgan/projects/test//html/ops/.htpasswd
+require valid-user
